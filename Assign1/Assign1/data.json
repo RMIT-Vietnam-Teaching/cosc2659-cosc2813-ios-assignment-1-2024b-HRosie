@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "Alton Cafe",
+    "description": "A cafe by the side of the mountain",
+    "image": "altonCafe",
+    "coordinate": {
+      "latitude": 35.68,
+      "longitude": 135.98
+    }
+  },
+  {
+    "id": "2",
+    "name": "Reverend Flower",
+    "description": "A rare flower patch",
+    "image": "reverend",
+    "coordinate": {
+      "latitude": 35.92,
+      "longitude": 136
+    }
+    },
+    {
+      "id": "3",
+      "name": "Alzu Cat",
+      "description": "A friendly wandering cat",
+      "image": "alzu",
+      "coordinate": {
+        "latitude": 35.91,
+        "longitude": 136.1
+      }
+  }
+]

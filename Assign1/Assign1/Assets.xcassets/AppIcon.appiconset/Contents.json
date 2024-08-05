@@ -1,0 +1,19 @@
+{
+  "images" : [
+    {
+      "filename" : "Immortelle-flower-on-a-cliff.webp-2.jpeg",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    },
+    {
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
